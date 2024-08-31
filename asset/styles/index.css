@@ -1,0 +1,18 @@
+*{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:blue ;
+    font-size: 30px;
+    border:2px solid;
+}
+
+a{
+    text-decoration: none;
+    background-color: pink;
+    margin:5px;
+    border: 2px solid;
+
+}
